@@ -1,0 +1,52 @@
+<JuegosViejos>
+  <Juego>
+      <Plataforma>
+          <codigo>020</codigo>
+        </Plataforma>
+      <codigo>011</codigo>
+      <nombre>Super Mario</nombre>
+      </Juego>
+    <Juego>
+      <Plataforma>
+          <codigo>013</codigo>
+        </Plataforma>
+        <Plataforma>
+          <codigo>020</codigo>
+        </Plataforma>
+      <codigo>043</codigo>
+      <nombre>Spiderman</nombre>
+      </Juego>
+  <Juego>
+      <Plataforma>
+          <codigo>035</codigo>
+        </Plataforma>
+      <codigo>113</codigo>
+      <nombre>Sonic The Hedgehog</nombre>
+      </Juego>
+    <Juego>
+      <Plataforma>
+          <codigo>020</codigo>
+        </Plataforma>
+      <Plataforma>
+          <codigo>035</codigo>
+        </Plataforma>
+        <codigo>358</codigo>
+      <nombre>Tetris</nombre>
+      </Juego>
+    <Plataforma>
+      <codigo>013</codigo>
+      <nombre>Play Station</nombre>
+    </Plataforma>
+    <Plataforma>
+      <codigo>020</codigo>
+      <nombre>Nintendo</nombre>
+    </Plataforma>
+    <Plataforma>
+      <codigo>035</codigo>
+      <nombre>Sega</nombre>
+    </Plataforma>
+  <Plataforma>
+      <codigo>040</codigo>
+      <nombre>Xbox</nombre>
+    </Plataforma>
+    </JuegosViejos>
